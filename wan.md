@@ -6,7 +6,7 @@
 ## cPHX
 	cphxAddress:      0xD8Fa6921b24AB1cD52ab553d1F99aAEdc321e562
 
-## multiSing
+## multiSig
     multiSigAddress:  0x433d77231eeFcdAe4c00780263Eaa76771702a3c		
 ___
 # Compensation PHX for wanswap Unlock Contract

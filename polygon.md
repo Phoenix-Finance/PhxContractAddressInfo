@@ -8,7 +8,7 @@
 ## PHX Oracle 
 	   PHXOracleAddress: 	0x0a6293a64d4c2eaab8e349fa6a9f4d238d46b491 
 
-## multiSing
+## multiSig
        multiSigAddress:     0x2c2627E36Ed553A6E247F1c608C64725568777EC
 ___
 

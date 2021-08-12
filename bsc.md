@@ -6,7 +6,7 @@
 ## cPHX
 	cphxAddress:        0xd8fa6921b24ab1cd52ab553d1f99aaedc321e562
 
-## multiSing
+## multiSig
     multiSigAddress:    0x2c2627E36Ed553A6E247F1c608C64725568777EC	
 
 ___
