@@ -6,6 +6,10 @@
 ## cPHX
 	  cphxAddress: 0xBdD50c7B6c871D9aFB278445d5b74fDc4705a234
 
+## multiSig
+	multiSig1Address: 0x74A6AD894F276EC5Fd894621A37e733E2276Faa4
+	multiSig2Address: 0x994a8c8d38718dc67fa2514cfcfeb16f96b2a144
+
 # Lp mine pool
 	  MinePool:         0xf0e71caf62cf7f3dba2793cdc2bba1712cea93aa	
 	  MineToken(cphx):  0xBdD50c7B6c871D9aFB278445d5b74fDc4705a234	
