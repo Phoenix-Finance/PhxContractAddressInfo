@@ -7,9 +7,9 @@
 	  cphxAddress: 0xBdD50c7B6c871D9aFB278445d5b74fDc4705a234
 
 # Lp mine pool
-	  MinePool:			0xf0e71caf62cf7f3dba2793cdc2bba1712cea93aa	
-	  MineToken(cphx):	0xBdD50c7B6c871D9aFB278445d5b74fDc4705a234	
-	  LpToken:			0x9D22C2BB272Feed9ec352Df38Ef0eF1e56A16879			
+	  MinePool:         0xf0e71caf62cf7f3dba2793cdc2bba1712cea93aa	
+	  MineToken(cphx):  0xBdD50c7B6c871D9aFB278445d5b74fDc4705a234	
+	  LpToken:          0x9D22C2BB272Feed9ec352Df38Ef0eF1e56A16879			
 
 # PHX Unlock
 
