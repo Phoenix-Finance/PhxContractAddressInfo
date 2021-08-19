@@ -74,4 +74,9 @@ ___
 
 
 # Compensation PHX for wanswap Unlock Contract
-	UnlockContract:	       0x18e243aef86b4fF3De99Cd0eE1E4333Ca5DF56E5			
+	UnlockContract:	       0x18e243aef86b4fF3De99Cd0eE1E4333Ca5DF56E5	
+
+# phx-wasp double farm	
+    phx-wasp-Farm address:		0x3b0b84E0c5Dd1Ec26B2759766882774E4760390D
+    phx-wasplptoken address:	0x7f84994114c41191386b7cb5e9296896e44a41ed
+    cphx token address:			0xD8Fa6921b24AB1cD52ab553d1F99aAEdc321e562
