@@ -46,7 +46,8 @@ ___
    multiSignature :     0x01e8cf5d14579edf62d20cf9ea51bdac421389c4 
 ___  
 # Leverage Contracts
-
+## leverage factory
+	factoryAddress: 0x66d8eA5A354b8A513f26927ed1864cf90FafEA6A
 ## feeAddress 
      address：0xfa5678fCA5484d31f65854C496126a605066D4bF
 
