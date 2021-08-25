@@ -7,7 +7,7 @@
 	cphxAddress:     0xd8fa6921b24ab1cd52ab553d1f99aaedc321e562
 
 ## multiSig
-    multiSigAddress: 0x2c2627E36Ed553A6E247F1c608C64725568777EC	
+    multiSigAddress: 0x01e8cf5d14579edf62d20cf9ea51bdac421389c4	
 
 ## BUSD
    BUSD Address: 	 0xe9e7cea3dedca5984780bafc599bd69add087d56 
@@ -97,3 +97,6 @@ ___
 ___
 # Compensation PHX for bsc swap Unlock Contract
 	UnlockContract:	0x481fA2731e503eF7d548b98285165eb0C81384F4	
+
+# lp mine
+   lp mine pool:0xa5b5c00f04743ad39fa487acb1cc5bd481f041b3	
