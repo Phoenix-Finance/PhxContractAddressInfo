@@ -22,6 +22,9 @@
 
 ## Investor	Unlock
      investorUnlock:    0x741a00905f80aDB1334e2b7294E2eB6596aA880e
+
+## cphx Converter
+     cphxConverter:     0x663E0657202588C0eABd8Bd6Da67D87d52D3e851	 
 	  
 	  
 	  
