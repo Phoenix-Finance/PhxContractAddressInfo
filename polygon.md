@@ -12,7 +12,7 @@
        multiSigAddress:     0x2c2627E36Ed553A6E247F1c608C64725568777EC
 ___
 
-# Opttion Contracts 
+# Option Contracts 
 
 ## Option Factory
       optionsFactory: 		0x14dd1cf3a4830649f5db9deb4bab9fba3c844eeb
