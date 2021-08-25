@@ -1,2 +1,2 @@
 # PhxContractAddressInfo
-All address info of deployed contract for phx product
+All addresses info of deployed contracts for phx products
