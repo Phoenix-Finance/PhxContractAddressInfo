@@ -93,6 +93,6 @@ ___
 	  LpToken:              0x666Dd949Db4f3807C6e8E360A79473a5F0C7075a	
 
 ___
-# Compensation PHX for ethereum uni,susi swap Unlock Contract
+# Compensation PHX for ethereum uniswap,sushiswap Unlock Contract
 	  UnlockContract:       0x5bc9de01a94e89a368dc95684603ba72cc0090ef	  
 	  
