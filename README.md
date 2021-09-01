@@ -1,2 +1,2 @@
 # PhxContractAddressInfo
-All addresses info of deployed contracts for phx products
+All addresses information of the deployed contracts for Phoenix Finance products
