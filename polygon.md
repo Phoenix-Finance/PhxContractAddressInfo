@@ -111,3 +111,11 @@ ___
 	hedgeInfo token:          0xD6DF932A45C0f255f85145f286eA0b292B21C90B 
 	stakePool:                0xe0C11818F70475f0B091e890610aBE94c6772AbC ,
 	rebase Token:             0x324e78D2EFc692618081551097BCfF86fE702f2F 
+	
+___	 
+# matic
+	matic 杠杆代币池：0x9fac61e17554397b37d70ef0a7da87d9869e47c1
+	matic借贷池：     0xe6e87c1d32bdcc74a7cc2bdc295057fb8bfa1d47
+	pptcoin：         0xAB57f82c38b1eD2e3d4fd3B911Ee58EB45134876
+	挖矿池：          0x744afAc83c13a74a604dCbc58E6836b586F93c7D	
+	
