@@ -96,3 +96,18 @@ ___
 # Compensation PHX for ethereum uniswap,sushiswap Unlock Contract
 	  UnlockContract:       0x5bc9de01a94e89a368dc95684603ba72cc0090ef	  
 	  
+___	  
+
+# AAVE 
+	AAVE  stakePool:    0xe0C11818F70475f0B091e890610aBE94c6772AbC , 
+	pool token:         0xD6DF932A45C0f255f85145f286eA0b292B21C90B ,
+	PPTCoin:            0x9Ea202F64D7E0780829c8011cF9189327b1Af208 
+	acceleratedMinePool 0x2817fd78E0c459D9041094e5512FF66Ad5c41939
+
+	USDT AAVE leveragedPool:  0xFC42FE7b81FDa6F75fe9742196fBEF7B3Aa6e39c
+	leverageInfo token:       0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174 ,
+	stakePool                 0xd0289082cf4c5c2ba448B4B9c67232729aa75EfA ,
+	rebase Token:             0x6C998def3D8DC651DD6f2f70D01866555e06BF53 
+	hedgeInfo token:          0xD6DF932A45C0f255f85145f286eA0b292B21C90B 
+	stakePool:                0xe0C11818F70475f0B091e890610aBE94c6772AbC ,
+	rebase Token:             0x324e78D2EFc692618081551097BCfF86fE702f2F 
