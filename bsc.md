@@ -94,13 +94,7 @@ ___
 
     PPTCoin:              0x7B14ba7C2eb0DF20217102CBEb3daceC7182beC4 
     acceleratedMinePool:  0x270d9313513A029b0A25CbB9a68F501b87Cac923
-___
-# Compensation PHX for bsc swap Unlock Contract
-	UnlockContract:	0x481fA2731e503eF7d548b98285165eb0C81384F4	
-
-# lp mine
-   lp mine pool:0xa5b5c00f04743ad39fa487acb1cc5bd481f041b3	
-   
+___	
 # CAKE  
 	stakePool:  0x9407A7c1a901e0DB36837e59Db79481e03C0dD2d , 
 	pool token  0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82 ,
@@ -114,3 +108,20 @@ ___
 	hedgeInfo: token 0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82 ,
 	stakePool 0x9407A7c1a901e0DB36837e59Db79481e03C0dD2d ,
 	rebase Token 0x7E2AB45c57949f33334890aC6Adfb1869b0283AA  
+
+___
+# Compensation PHX for bsc swap Unlock Contract
+	UnlockContract:	0x481fA2731e503eF7d548b98285165eb0C81384F4	
+
+# lp mine
+   lp mine pool:0xa5b5c00f04743ad39fa487acb1cc5bd481f041b3	
+
+# defilama tvl
+## total
+	0xBB8dA4ed33388A0eAc442eD1f28474413FC9d7a7
+## option and lever
+	0x6833375afdCf152E9aAC4179814D14057F0171Ec
+	
+   
+
+	

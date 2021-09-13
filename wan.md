@@ -31,7 +31,9 @@ ___
 ___
 
 # Leverage
-## Leverage Pools 
+## Leverage factory        
+                       0x3d5bdb8c7a4f8fc044aab414b38151e7e51feeb0
+	
 ### USDT-WAN Leverage Pool
       poolsAddress:    0x63a7A5f027CC0f4EAf9d282e5D3AAA227d9eff5b      
       bearToken:       0x0000000000000000000000000000000000000000               
@@ -70,9 +72,6 @@ ___
       PPTToken:             0x25D21C6839F84F923FE6d32f1AaFFc1aBBd90dB7 
       acceleratedMinePool:  0xe80dFbD47A0D79232Aa407D0FF68B5FC31e3a03a 	  
 ___
-
-
-
 # Compensation PHX for wanswap Unlock Contract
 	UnlockContract:	       0x18e243aef86b4fF3De99Cd0eE1E4333Ca5DF56E5	
 
@@ -80,3 +79,12 @@ ___
     phx-wasp-Farm address:		0x3b0b84E0c5Dd1Ec26B2759766882774E4760390D
     phx-wasplptoken address:	0x7f84994114c41191386b7cb5e9296896e44a41ed
     cphx token address:			0xD8Fa6921b24AB1cD52ab553d1F99aAEdc321e562
+
+___
+# defilam tvl
+
+## total tvl
+	0xBB8dA4ed33388A0eAc442eD1f28474413FC9d7a7 
+## lever and option	
+   0x6833375afdCf152E9aAC4179814D14057F0171Ec
+	
