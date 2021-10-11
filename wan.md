@@ -51,6 +51,15 @@ ___
       stakePoolB:      0xb9B07131c806435F72250A4Ed6FB2DCE912b9Ec4   
       tokenA:          0xB3acdEc0b613631c89A7B1Af6053eEeb2de3F210   
       tokenB:          0xCC6b89b6C9ce95A13D07da04E1c3e7061585C5E7  	
+		
+### USDT WASP  leveragedPool:  0xa4b3C3ee067e3b0931b55CCea80BffaD9cCa6992
+        leverageInfo: token 0x11e77E27Af5539872efEd10abaA0b408cfd9fBBD 
+		stakePool 0x9eE0BD73a47c8aD94579c49939871361005ebBB5 
+		rebase Token 0xBFE9c79831e29eb2aA2bCBd9D93195A9bAe28255 
+        hedgeInfo: token 0x8B9F9f4aA70B1B0d586BE8aDFb19c1Ac38e05E9a 
+		stakePool 0xe780E21C2635faCB622D8F14BE6a08D545332704 
+		rebase Token 0x789a166B78191f7B2547b8809575fa68D5f3388F	  
+	  
 
 ## Stake Pool
 ### USDT Pool
@@ -70,7 +79,13 @@ ___
       poolAddress:          0xb9B07131c806435F72250A4Ed6FB2DCE912b9Ec4 
       token:                0xf665E0e3E75D16466345E1129530ec28839EfaEa  
       PPTToken:             0x25D21C6839F84F923FE6d32f1AaFFc1aBBd90dB7 
-      acceleratedMinePool:  0xe80dFbD47A0D79232Aa407D0FF68B5FC31e3a03a 	  
+      acceleratedMinePool:  0xe80dFbD47A0D79232Aa407D0FF68B5FC31e3a03a 	
+
+### wasp pool
+		WASP  stakePool:  0xe780E21C2635faCB622D8F14BE6a08D545332704 
+		pool token  0x8B9F9f4aA70B1B0d586BE8aDFb19c1Ac38e05E9a
+		PPTCoin 0xe8ed884D1A2929f58c1a10A00a27a5030e89e183 
+		acceleratedMinePool 0x84743e56CCA2547423e875A78eB3fcACcd753043
 ___
 # Compensation PHX for wanswap Unlock Contract
 	UnlockContract:	       0x18e243aef86b4fF3De99Cd0eE1E4333Ca5DF56E5	
