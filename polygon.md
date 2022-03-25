@@ -85,7 +85,8 @@ ___
       token:                0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619  
       PPTToken:             0x175b9042d922e1fb4ddc3e24dfdc9d2bfd52fce5 
       acceleratedMinePool:  0x4bc300d4d2c272bb767b09cbdb284dc482eb2d33 
-
+### USDC/USDT MinePool	  
+	0xD5EB53e733A610251DF14EB75143a29FA05c67E3
 ___
 # Lp mine pool
 	  MinePool:             0x862e64d45eb1073bc8c8fef946c3321b48534a6d
